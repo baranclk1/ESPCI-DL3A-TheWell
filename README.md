@@ -23,3 +23,10 @@ Standard numerical solvers for partial differential equations are accurate but c
 - `CNN4 + PINN`: CNN4 with physical constraints:
   - Mass conservation
   - Energy conservation (with radiative loss term)
+ 
+## Author
+
+**Baran CELIK**  
+3rd Year Engineering Student – ESPCI Paris – PSL University  
+Course: Statistical Learning (2024–2025)
+
