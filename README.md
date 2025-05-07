@@ -1,6 +1,6 @@
 # ESPCI-DL3A-TheWell
 
-This repository contains the code and experiments for a 3rd-year project at ESPCI Paris – PSL, developed as part of the course *Apprentissage profond avancé*. The project investigates the use of deep neural networks, including Physics-Informed Neural Networks (PINNs), for modeling the spatio-temporal evolution of turbulent astrophysical systems with radiative cooling.
+This repository contains the report and the notebook for a 3rd-year project at ESPCI Paris – PSL, developed as part of the course *Advanced deep learning*. The project investigates the use of deep neural networks, including Physics-Informed Neural Networks (PINNs), for modeling the spatio-temporal evolution of turbulent astrophysical systems with radiative cooling.
 
 ## Project Overview
 
