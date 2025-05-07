@@ -31,6 +31,6 @@ Standard numerical solvers for partial differential equations are accurate but c
 ## Author
 
 **Baran CELIK**  
-3rd Year Engineering Student – ESPCI Paris – PSL University  
-Course: Statistical Learning (2024–2025)
+3rd year engineering student – ESPCI Paris – PSL University  
+Course: statistical learning (2024–2025)
 
