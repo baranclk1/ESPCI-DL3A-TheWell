@@ -2,6 +2,8 @@
 
 This repository contains the report and the notebook for a 3rd-year project at ESPCI Paris – PSL, developed as part of the course *Advanced deep learning*. The project investigates the use of deep neural networks, including Physics-Informed Neural Networks (PINNs), for modeling the spatio-temporal evolution of turbulent astrophysical systems with radiative cooling.
 
+---
+
 ## Project Overview
 
 Standard numerical solvers for partial differential equations are accurate but computationally intensive. This work explores surrogate modeling with convolutional architectures and spectral operators to learn short-term physical dynamics from data, while integrating physical laws to improve generalization and consistency.
@@ -23,7 +25,9 @@ Standard numerical solvers for partial differential equations are accurate but c
 - `CNN4 + PINN`: CNN4 with physical constraints:
   - Mass conservation
   - Energy conservation (with radiative loss term)
- 
+
+---
+
 ## Author
 
 **Baran CELIK**  
