@@ -4,7 +4,7 @@ This repository contains the report and the notebook for a 3rd-year project at E
 
 ---
 
-## Project Overview
+## Project overview
 
 Standard numerical solvers for partial differential equations are accurate but computationally intensive. This work explores surrogate modeling with convolutional architectures and spectral operators to learn short-term physical dynamics from data, while integrating physical laws to improve generalization and consistency.
 
@@ -17,7 +17,7 @@ Standard numerical solvers for partial differential equations are accurate but c
 - **Fields:** Density, Pressure, Velocity_X, Velocity_Y
 - **Format:** HDF5 (loaded via `WellDataset` PyTorch interface)
 
-## Models Implemented
+## Models
 
 - `CNN`, `CNN2`, `CNN3`, `CNN4`: Progressive convolutional architectures with increasing depth and capacity
 - `SkipCNN`: U-Net style with skip connections
@@ -26,11 +26,4 @@ Standard numerical solvers for partial differential equations are accurate but c
   - Mass conservation
   - Energy conservation (with radiative loss term)
 
----
-
-## Author
-
-**Baran CELIK**  
-3rd year engineering student – ESPCI Paris – PSL University  
-Course: statistical learning (2024–2025)
 
